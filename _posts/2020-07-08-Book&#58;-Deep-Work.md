@@ -7,7 +7,7 @@ categories:
 
 [<img src="/DeepWork.jpg" width="151" height="237">](https://www.amazon.com/gp/product/1455586692/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455586692&linkCode=as2&tag=tmstsn-20&linkId=6b82383b1c145231bd32f6efdcac1465){:target="_blank"}  
 
-## Deep Work: Rules for Focused Success in a Distracted World  
+### Deep Work: Rules for Focused Success in a Distracted World  
 Author: Cal Newport  
 ISBN: 1455586692  
 Published: 2016  
@@ -16,11 +16,11 @@ Pages: 296
     
 ---
 
-## In the author's own words:
+### From Amazon:
 
 > One of the most valuable skills in our economy is becoming increasingly rare. If you master this skill, you'll achieve extraordinary results. Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship.
 
-## Review:
+### Review:
 
 The thesis is sound: your ability to focus and eliminate distractions can catapult your productivity and separate you from your peers. Most people recognize that technology has outpaced evolution, and our devices prey on our brains' desire for distraction. This book examines what we can do about it.
 
@@ -30,7 +30,7 @@ Speckled throughout the book are profiles of deep work practitioners and their u
 
 The first part of the book functions as a sales pitch for deep work and runs far too long. Also, the advice regarding email seems much more appropriate for executive types than young professionals.
 
-## Takeaways:
+### Takeaways:
 
 * Newport puts forward a strong argument for quitting social media. My two biggest digital vices are Instagram and Reddit. Per Newport’s advice, I’ve allotted time in the morning and evening for these sites—“Don’t take breaks from distraction. Instead take breaks from focus.” I’ve also deleted (almost) all social media apps from my phone. My screen time has decreased substantially.
 
