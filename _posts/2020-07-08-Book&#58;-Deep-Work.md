@@ -26,7 +26,7 @@ The thesis is sound: your ability to focus and eliminate distractions can catapu
 
 *Deep Work* is full of that wonderful type of idea that sounds like something you already knew but hadn't put words to. Take, for example, Newport's notion that your ability to focus is a muscle that you're training at all hours of the day—not just working hours. In other words, if you idly open Twitter when a television commercial comes on, you're training your brain to seek distraction whenever the slightest inconvenience arises. It doesn’t matter that you're already relaxing by watching television. Neurons that fire together wire together.
 
-Speckled throughout the book are profiles of deep work practitioners and their unique styles. Newport draws from a wide range of source material, from McKinsey reports to New York Times articles to personal interviews. By doing so, he steps out of the “academic” box and writes more as a cultural critic. Some may prefer a more careful review of evidence (à la *Thinking, Fast and Slow* by Daniel Kahnemahn), but Newport's more anecdotal style works, too. 
+Speckled throughout the book are profiles of deep work practitioners and their unique styles. Newport draws from a wide range of source material, from McKinsey reports to New York Times articles to personal interviews. By doing so, he steps out of the “academic” box and writes more as a cultural critic. Some may prefer a more careful review of evidence (like *Thinking, Fast and Slow* by Daniel Kahnemahn), but Newport's more anecdotal style works, too. 
 
 The first part of the book functions as a sales pitch for deep work and runs far too long. Also, the advice regarding email seems much more appropriate for executive types than young professionals.
 
