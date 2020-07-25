@@ -22,13 +22,14 @@ Overall, an enjoyable and easy read. Nothing earth-shattering, but well-structur
 
 Much of reading this book is implementing its suggestions. The suggestions work. If you want to improve productivity, you can’t just strive to work more. That’s only half the battle. The other half is eliminating distractions. And the nastiest, most powerful, most conniving distractions imaginable live on our phones and laptops. 
 
-Our brains are still analog. As it turns out, we can go without social media. Doing so can not only open up more time for other hobbies, but also reduce cognitive clutter (which, by the way, has unleashed widespread anxiety across an entire generation).
+Our brains are still analog. As it turns out, we *can* go without social media. Doing so can not only open up more time for other hobbies, but also reduce cognitive clutter (which, by the way, may have unleashed widespread anxiety across an entire generation).
 
-The book is at its best when discussing the psychology and development of the attention economy, and at its worst when pushing the 30-day digital declutter, which, despite its best intentions, still sounds like a hackneyed self-help “detox plan.” Like in Deep Work, Newport supports his arguments mostly with anecdotes and not evidence, but again, the arguments really aren’t so controversial as to merit serious science.
+The book is at its best when discussing the psychology and development of the attention economy, and at its worst when pushing the 30-day digital declutter, which, despite best intentions, still sounds like a hackneyed self-help “detox plan.” Like in *Deep Work*, Newport supports his arguments mostly with anecdotes and not evidence, but again, the arguments really aren’t so controversial as to require serious science.
 
 ### Takeaways:
 
 * I’ve clearly set out times to use services like Instagram, Twitter, and Reddit. Here’s my schedule:
+[<img src="/Schedule.jpg" width="472" height="76">]
 * I’ve started using Instapaper regularly. 
 * One topic I keep thinking about is anxiety. Is digital clutter really causing widespread anxiety? And might these giant tech companies actually want to keep us anxious, so that we keep checking our phones? Once you conclude attention is money, and advertisers are clients, it’s hard not to see how social media users are getting robbed.
 * Reading is better. At the end of my life, I want to know I read some great books. And I think I actually like reading—I just never liked it more than whatever distraction was available (Twitter, Reddit, news, etc.). But now I’m reading more.
