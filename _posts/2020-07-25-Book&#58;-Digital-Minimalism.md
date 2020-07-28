@@ -30,6 +30,7 @@ The book is at its best when discussing the psychology and development of the at
 
 * I’ve clearly set out times to use services like Instagram, Twitter, and Reddit. Here’s my schedule:  
 <img src="/Schedule.png" width="472" height="76" align="left">  
+
 * I’ve started using [Instapaper](https://www.instapaper.com/) regularly. 
 * One topic I keep thinking about is anxiety. Is digital clutter really causing widespread anxiety? And might these giant tech companies actually *want* to keep us anxious, so that we keep checking our phones? Once you conclude that attention is money, it’s easy to see how social media users are getting robbed.  
 * Reading is better. At the end of my life, I want to know I read some great books. And I think I actually like reading—I just never liked it more than whatever distraction was available (Twitter, Reddit, news, etc.). But now I’m reading more.
