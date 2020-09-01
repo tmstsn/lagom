@@ -4,8 +4,7 @@ title: TV&#58; Sopranos Season 1
 categories:
 - blog
 ---
-
-### The Sopranos, Season 1
+[<img src="/TheSopranos.jpg" width="320" height="220">]
 HBO  
 1999  
 
