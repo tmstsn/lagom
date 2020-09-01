@@ -9,6 +9,8 @@ categories:
 HBO  
 1999  
 
+---
+
 ### Review
 
 *The Wire* taught me a lot. I realized certain shows are mandatory viewing. I also became familiar with the writings of the great Alan Sepinwall, TV critic at Rolling Stone. His episode summaries for *The Wire* (and for *Better Call Saul*, which I recently caught up on) are fantastic and enlightening—a million times better than a Reddit episode thread. After finding Sepinwall on Twitter, I noticed that most of his serious writing (i.e., books) covered *The Sopranos*. With new shows stalled and professional sports at a trickle, what better time to embark on some mandatory viewing like *The Sopranos*?
