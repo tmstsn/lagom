@@ -7,7 +7,7 @@ categories:
 <img src="/TheSopranos.jpg" width="352" height="242"> 
 
 *The Sopranos*  
-Season 1
+Season 1  
 HBO  
 1999  
 
@@ -24,8 +24,8 @@ The show’s first thirteen episodes do a fantastic job of introducing the Famil
 ### Quick Thoughts
 * I like Christopher as a character. He’s like a slightly more competent Ziggy from *The Wire* season two. He gives the viewer a better understanding of mob life in the lower ranks. He's ambitious but totally insecure, and it's fun to watch. That said, the episode where he and his girlfriend try to break into the music business is by far the worst of the season.
 
-* Father Phil is an absolute gem. The premise of his character is so weird, but so genius. A flirtatious but pious *schnorrer* who preys on despondent mob wives—he's a mad lib in a clerical collar. I hope Carmela didn’t run him off with her frank psychoanalysis. 
+* Father Phil is an absolute gem. The premise of his character is so weird, but so genius. A flirtatious but pious *schnorrer* who preys on despondent mob wives—he's a mad lib in a clerical collar. I hope Carmela didn’t run him off with her piercing psychoanalysis. 
 
 * Are we supposed to dislike Tony at any point in this show? Season One has Tony doing some horrible things, but I never stopped liking him (or really even questioning him) for a second. He's Homer Simpson, who just happens to carry piano wire on him in case he spots a rat on his daughter's college trip. 
 
-* The therapist scenes are a perfect checkpoint. The show often leaves things blurry, like Livia's motives or Pussy's disappearance. Then the dynamite Dr. Melfi gives some perspective. The therapy framework (and the ducks motif) reminded me of "Catcher in the Rye," and I think a lot could be said about Tony's similarities to Holden Caulfield. Both are flawed, irreverent protagonists trying to carve out a decent existence for their loved ones in a world they've convinced themselves is bullshit. 
+* The therapist scenes are a perfect checkpoint. The show often leaves things blurry, like Livia's motives or Pussy's disappearance. Then the dynamite Dr. Melfi gives some perspective. The therapy framework (and the ducks motif) reminded me of "Catcher in the Rye," and I think a lot could be said about Tony's similarities to Holden Caulfield. Both are flawed, irreverent protagonists trying to carve out a decent existence for their loved ones in a world they're convinced is bullshit. 
