@@ -14,6 +14,8 @@ Published: 2019
 Pages: 284  
 <a target="_blank" href="https://www.amazon.com/gp/product/0241453577/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0241453577&linkCode=as2&tag=tmstsn-20&linkId=5b13dbf71be012d42810facca0e84112">Amazon Link</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=tmstsn-20&l=am2&o=1&a=0241453577" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+---
+
 ### From Amazon:
 > Minimalism is the art of knowing how much is just enough. Digital minimalism applies this idea to our personal technology. It's the key to living a focused life in an increasingly noisy world.
 
