@@ -12,12 +12,12 @@ categories:
 **[10 Investing Lessons from 2020 – Nick Maggiuli](https://click.convertkit-mail2.com/8kur4rl09otohdz58qck/owhkhqh465e5zgtv/aHR0cHM6Ly9vZmRvbGxhcnNhbmRkYXRhLmNvbS8xMC1pbnZlc3RpbmctbGVzc29ucy1mcm9tLTIwMjAv)**
 * Great perspective and great charts. Here's a good visual of volatility over the last century shown via Dow daily returns (notice 2020 on the far right):
 <p align="center">
-<img src="/room.png" id="logo" alt="logo" width="400" height="312"/>
+<img src="/vol.jpg" id="logo" width="428" height="222"/>
 </p>
 
 * And for those who think we're approaching a tech bubble:
 <p align="center">
-<img src="/room.png" id="logo" alt="logo" width="400" height="312"/>
+<img src="/tech.jpg" id="logo" width="425" height="340"/>
 </p>
 
 **[Michelin restaurants and fabulous wines: Inside the secret team dinners that have built the Spurs’ dynasty – Baxter Holmes](https://click.convertkit-mail2.com/8kur4rl09otohdz58qck/z2hghnhok0z0gwip/aHR0cHM6Ly93d3cuZXNwbi5jb20vbmJhL3N0b3J5L18vaWQvMjY1MjQ2MDAvc2VjcmV0LXRlYW0tZGlubmVycy1idWlsdC1zcHVycy1keW5hc3R5)**
