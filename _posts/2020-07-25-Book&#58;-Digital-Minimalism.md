@@ -1,37 +1,41 @@
 ---
 layout: post
-title: Book&#58; Digital Minimalism
+title: Sunday Review 2 (1/10/2021)
 categories:
 - blog
 ---
+---
 
-[<img src="/DigitalMinimalism.jpg" width="163" height="249">](https://www.amazon.com/gp/product/0241453577/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0241453577&linkCode=as2&tag=tmstsn-20&linkId=5b13dbf71be012d42810facca0e84112)
+### What I'm Reading:
 
-### Digital Minimalism: Choosing a Focused Life in a Noisy World
-Author: Cal Newport  
-ISBN: 0241453577  
-Published: 2019  
-Pages: 284  
-<a target="_blank" href="https://www.amazon.com/gp/product/0241453577/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0241453577&linkCode=as2&tag=tmstsn-20&linkId=5b13dbf71be012d42810facca0e84112">Amazon Link</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=tmstsn-20&l=am2&o=1&a=0241453577" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+**[Talking Out Loud To Yourself Is A Technology For Thinking – Nana Ariel](https://click.convertkit-mail2.com/mvud6drn4zb5h588dzbm/qvh8h7h8446oo8il/aHR0cHM6Ly9wc3ljaGUuY28vaWRlYXMvdGFsa2luZy1vdXQtbG91ZC10by15b3Vyc2VsZi1pcy1hLXRlY2hub2xvZ3ktZm9yLXRoaW5raW5nP2NrX3N1YnNjcmliZXJfaWQ9MTExMTk1OTk1OVRhbGtpbmclMjBvdXQlMjBsb3VkJTIwdG8lMjB5b3Vyc2VsZiUyMGlzJTIwYSUyMHRlY2hub2xvZ3klMjBmb3IlMjB0aGlua2luZw==)**
+* Speaking out loud to yourself "encourages the creation of developed, complex ideas." Everyone knows reading an essay out loud helps the editing process. But few recognize that reciting your thoughts out loud helps the idea-generation process, as well. "Just as ‘appetite comes with eating’, Kleist argues, ‘ideas come with speaking.'"
+
+**[Forget New Year's Resolutions And Conduct A 'Past Year Review' Instead – Tim Ferriss](https://tim.blog/2018/12/28/past-year-review/)**
+* Good exercise. Take a piece of paper and make two columns: "POSITIVE" and "NEGATIVE." Look at your calendar for the last year and write down the strongest positive and negative things that happened in their respective columns. Then, schedule more of those positive items in the new year. Make a plan to avoid the negative items.
+
+**[Money and Happiness: Rank of Income, Not Income, Affects Life Satisfaction by Christopher J. Boyce, et al.](https://click.convertkit-mail2.com/mvud6drn4zb5h588dzbm/9qhzhnhg662zzds9/aHR0cHM6Ly9qb3VybmFscy5zYWdlcHViLmNvbS9kb2kvZnVsbC8xMC4xMTc3LzA5NTY3OTc2MTAzNjI2NzE=)**
+* Happiness has more to do with relative income than absolute income: "We found that the ranked position of an individual’s income predicts general life satisfaction, whereas absolute income and reference income have no effect." Thus, it would seem that increasing the income of all will not increase the happiness of all. Could this be an argument against universal basic income? At least a partial one?
 
 ---
 
-### From Amazon:
-> Minimalism is the art of knowing how much is just enough. Digital minimalism applies this idea to our personal technology. It's the key to living a focused life in an increasingly noisy world.
+### Quote of the Week:
+> "You have vanishingly little political influence and every thought you spend on politics will probably come to nothing. Consider building things instead, or at least going for a walk." 
 
-### Review:
-Overall, an enjoyable and easy read. Nothing earth-shattering, but well-structured and compelling. 
+–Tim Ferriss
 
-Much of reading this book is implementing its suggestions. The suggestions work. If you want to improve productivity, you can’t just strive to work more. That’s only half the battle. The other half is eliminating distractions. And the nastiest, most powerful, most conniving distractions imaginable live on our phones and laptops. 
+---
 
-Our brains are still analog. As it turns out, we *can* go without social media. Doing so can not only open up more time for other hobbies, but also reduce cognitive clutter (which, by the way, may have unleashed widespread anxiety across an entire generation).
+### Word of the Week:
 
-The book is at its best when discussing the psychology and development of the attention economy, and at its worst when pushing the 30-day digital declutter, which, despite best intentions, still sounds like a hackneyed self-help “detox plan.” Like in *Deep Work*, Newport supports his arguments mostly with anecdotes and not evidence, but again, the arguments really aren’t so controversial as to require serious science.
+**bijou** (adj) (bee-ZHOO):
 
-### Takeaways:
+(especially of a residence or business establishment) small and elegant.
 
-* I’ve clearly set out times to use services like Instagram, Twitter, and Reddit. Here’s my schedule:  
-<img src="/Schedule.png" width="300" height="50">  
-* I’ve started using [Instapaper](https://www.instapaper.com/) regularly. 
-* One topic I keep thinking about is anxiety. Is digital clutter really causing widespread anxiety? And might these giant tech companies actually *want* to keep us anxious, so that we keep checking our phones? Once you conclude that attention is money, it’s easy to see how social media users are getting robbed.  
-* Reading is better. At the end of my life, I want to know I read some great books. And I think I actually like reading—I just never liked it more than whatever distraction was available (Twitter, Reddit, news, etc.). But now I’m reading more.
+"For their first date, Harold reserved seats at a bijou restaurant downtown."
+
+---
+
+Thanks for reading.
+
+–Tom
